@@ -4,6 +4,9 @@
 
 **Price Watch** is a comprehensive stock market analysis platform that leverages cutting-edge machine learning techniques to detect anomalies and unusual patterns in stock price movements. This sophisticated system provides traders, analysts, and investors with powerful tools to identify market irregularities, potential trading opportunities, and risk assessment insights.
 
+### 🎥 Demo Video
+https://github.com/user-attachments/assets/d1b5c802-1635-44d7-b92c-d341fd908c91
+
 ### Key Highlights
 - **Multi-Algorithm Approach**: Implements 5 different anomaly detection algorithms for comprehensive analysis
 - **Real-Time Analysis**: Interactive Streamlit dashboard for live market analysis
@@ -348,20 +351,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Open Source Community**: For the incredible ecosystem of Python libraries
 - **Financial Data Providers**: Yahoo Finance for reliable market data
 - **Contributors**: All developers who have contributed to this project
-
-## 📞 Support & Contact
-
-### 🆘 Getting Help
-- **GitHub Issues**: Report bugs and request features
-- **Discussions**: Join community discussions about improvements
-- **Documentation**: Comprehensive guides and tutorials
-- **Email**: [Your contact email] for direct support
-
-### 📧 Contact Information
-For questions, suggestions, or collaboration opportunities:
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
 
 ---
 
