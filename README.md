@@ -5,8 +5,7 @@
 **Price Watch** is a comprehensive stock market analysis platform that leverages cutting-edge machine learning techniques to detect anomalies and unusual patterns in stock price movements. This sophisticated system provides traders, analysts, and investors with powerful tools to identify market irregularities, potential trading opportunities, and risk assessment insights.
 
 ### 🎥 Demo Video
-
-
+https://github.com/user-attachments/assets/82b1d105-793d-4dd0-a231-79cbb1ae89a6
 
 
 ### Key Highlights
