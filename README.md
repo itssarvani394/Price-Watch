@@ -6,20 +6,7 @@
 
 ### 🎥 Demo Video
 
-https://github.com/user-attachments/assets/d1b5c802-1635-44d7-b92c-d341fd908c91
 
-**Local Demo Video:**
-```html
-<video width="100%" controls>
-  <source src="assets/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
-
-<video width="100%" controls>
-  <source src="assets/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ### Key Highlights
